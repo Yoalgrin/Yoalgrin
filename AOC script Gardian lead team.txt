@@ -1,0 +1,529 @@
+<Label aoc1 Local SendWin aoc1>
+<Label aoc2 Local SendWin aoc2>
+<Label aoc3 Local SendWin aoc3>
+<Label aoc4 Local SendWin aoc4>
+<Label aoc5 Local SendWin aoc5>
+<Label aoc6 Local SendWin aoc6>
+
+<hotkey 1>
+<key 1>
+<sendpc local>
+<sendwin aoc1>
+<key 1>
+<sendpc local>
+<sendwin aoc2>
+<key 1>
+<sendpc local>
+<sendwin aoc3>
+<key 1>
+<sendpc local>
+<sendwin aoc4>
+<key 1>
+<sendpc local>
+<sendwin aoc5>
+<key 1>
+<sendpc local>
+<sendwin aoc6>
+<key 1>
+<restore>
+
+<hotkey 2>
+<key 2>
+<sendpc local>
+<sendwin aoc1>
+<key 2>
+<sendpc local>
+<sendwin aoc2>
+<key 2>
+<sendpc local>
+<sendwin aoc3>
+<key 2>
+<sendpc local>
+<sendwin aoc4>
+<key 2>
+<sendpc local>
+<sendwin aoc5>
+<key 2>
+<sendpc local>
+<sendwin aoc6>
+<key 2>
+<restore>
+
+<hotkey 3>
+<key 3>
+<sendpc local>
+<sendwin aoc1>
+<key 3>
+<sendpc local>
+<sendwin aoc2>
+<key 3>
+<sendpc local>
+<sendwin aoc3>
+<key 3>
+<sendpc local>
+<sendwin aoc4>
+<key 3>
+<sendpc local>
+<sendwin aoc5>
+<key 3>
+<sendpc local>
+<sendwin aoc6>
+<key 3>
+<restore>
+
+//Ground target
+<hotkey 4>
+<key 4>
+  <SendLabel aoc4>
+   <Key 4>
+<wait 600>
+  <SendLabel aoc6>
+   <Key 4>
+<wait 600>
+  <SendLabel aoc3>
+  <Key 4>
+<wait 600>
+  <key 4>
+  <SendLabel aoc2>
+<wait 600>
+<key 4>
+<SendLabel aoc5>
+<key 4>
+<SendLabel aoc1>
+<key 4>
+<restore>
+
+<hotkey 5>
+<key 5>
+<sendpc local>
+<sendwin aoc1>
+<key 5>
+<sendpc local>
+<sendwin aoc2>
+<key 5>
+<sendpc local>
+<sendwin aoc3>
+<key 5>
+<sendpc local>
+<sendwin aoc4>
+<key 5>
+<sendpc local>
+<sendwin aoc5>
+<key 5>
+<sendpc local>
+<sendwin aoc6>
+<key 5>
+<restore>
+
+<hotkey 6>
+<sendpc local>
+<sendwin aoc1>
+<key 6>
+<sendpc local>
+<sendwin aoc2>
+<key 6>
+<sendpc local>
+<sendwin aoc3>
+<key 6>
+<sendpc local>
+<sendwin aoc4>
+<key 6>
+<sendpc local>
+<sendwin aoc5>
+<key 6>
+<sendpc local>
+<sendwin aoc6>
+<key 6>
+<restore>
+
+<hotkey 0>
+<sendpc local>
+<sendwin aoc1>
+<key 0>
+<sendpc local>
+<sendwin aoc2>
+<key 0>
+<sendpc local>
+<sendwin aoc3>
+<key 0>
+<sendpc local>
+<sendwin aoc4>
+<key 0>
+<sendpc local>
+<sendwin aoc5>
+<key 0>
+<sendpc local>
+<sendwin aoc6>
+<key 0>
+<restore>
+
+<hotkey F1>
+<key f1>
+<sendpc local>
+<sendwin aoc1>
+<key f1>
+<sendpc local>
+<sendwin aoc2>
+<key f1>
+<sendpc local>
+<sendwin aoc3>
+<key f1>
+<sendpc local>
+<sendwin aoc4>
+<key f1>
+<sendpc local>
+<sendwin aoc5>
+<key f1>
+<sendpc local>
+<sendwin aoc6>
+<key f1>
+<restore>
+
+<hotkey F2>
+<sendpc local>
+<sendwin aoc1>
+<key f2>
+<sendpc local>
+<sendwin aoc2>
+<key f2>
+<sendpc local>
+<sendwin aoc3>
+<key f2>
+<sendpc local>
+<sendwin aoc4>
+<key f2>
+<sendpc local>
+<sendwin aoc5>
+<key f2>
+<sendpc local>
+<sendwin aoc6>
+<key f2>
+<restore>
+
+<hotkey f3>
+<sendpc local>
+<sendwin aoc1>
+<key f3>
+<sendpc local>
+<sendwin aoc2>
+<key f3>
+<sendpc local>
+<sendwin aoc3>
+<key f3>
+<sendpc local>
+<sendwin aoc4>
+<key f3>
+<sendpc local>
+<sendwin aoc5>
+<key f3>
+<sendpc local>
+<sendwin aoc6>
+<key f3>
+<restore>
+
+<hotkey f4>
+<sendpc local>
+<sendwin aoc1>
+<key f4>
+<sendpc local>
+<sendwin aoc2>
+<key f4>
+<sendpc local>
+<sendwin aoc3>
+<key f4>
+<sendpc local>
+<sendwin aoc4>
+<key f4>
+<sendpc local>
+<sendwin aoc5>
+<key f4>
+<sendpc local>
+<sendwin aoc6>
+<key f4>
+<restore>
+
+<hotkey f5>
+<sendpc local>
+<sendwin aoc1>
+<key f5>
+<sendpc local>
+<sendwin aoc2>
+<key f5>
+<sendpc local>
+<sendwin aoc3>
+<key f5>
+<sendpc local>
+<sendwin aoc4>
+<key f5>
+<sendpc local>
+<sendwin aoc5>
+<key f5>
+<sendpc local>
+<sendwin aoc6>
+<key f5>
+<restore>
+
+<hotkey f6>
+<sendpc local>
+<sendwin aoc1>
+<key f6>
+<sendpc local>
+<sendwin aoc2>
+<key f6>
+<sendpc local>
+<sendwin aoc3>
+<key f6>
+<sendpc local>
+<sendwin aoc4>
+<key f6>
+<sendpc local>
+<sendwin aoc5>
+<key f6>
+<sendpc local>
+<sendwin aoc6>
+<key f6>
+<restore>
+
+<hotkey f7>
+<sendpc local>
+<sendwin aoc1>
+<key f7>
+<sendpc local>
+<sendwin aoc2>
+<key f7>
+<sendpc local>
+<sendwin aoc3>
+<key f7>
+<sendpc local>
+<sendwin aoc4>
+<key f7>
+<sendpc local>
+<sendwin aoc5>
+<key f7>
+<sendpc local>
+<sendwin aoc6>
+<key f7>
+<restore>
+
+<hotkey f8>
+<sendpc local>
+<sendwin aoc1>
+<key f8>
+<sendpc local>
+<sendwin aoc2>
+<key f8>
+<sendpc local>
+<sendwin aoc3>
+<key f8>
+<sendpc local>
+<sendwin aoc4>
+<key f8>
+<sendpc local>
+<sendwin aoc5>
+<key f8>
+<sendpc local>
+<sendwin aoc6>
+<key f8>
+<restore>
+
+<hotkey f9>
+<sendpc local>
+<sendwin aoc1>
+<key f9>
+<sendpc local>
+<sendwin aoc2>
+<key f9>
+<sendpc local>
+<sendwin aoc3>
+<key f9>
+<sendpc local>
+<sendwin aoc4>
+<key f9>
+<sendpc local>
+<sendwin aoc5>
+<key f9>
+<sendpc local>
+<sendwin aoc6>
+<key f9>
+<restore>
+
+<hotkey tab>
+<sendpc local>
+<sendwin aoc1>
+<key tab>
+<sendpc local>
+<sendwin aoc2>
+<key tab>
+<sendpc local>
+<sendwin aoc3>
+<key tab>
+<sendpc local>
+<sendwin aoc4>
+<key tab>
+<sendpc local>
+<sendwin aoc5>
+<key tab>
+<sendpc local>
+<sendwin aoc6>
+<key tab>
+<restore>
+
+<hotkey q>
+<sendpc local>
+<sendwin aoc1>
+<key q>
+<sendpc local>
+<sendwin aoc2>
+<key q>
+<sendpc local>
+<sendwin aoc3>
+<key q>
+<sendpc local>
+<sendwin aoc4>
+<key q>
+<sendpc local>
+<sendwin aoc5>
+<key q>
+<sendpc local>
+<sendwin aoc6>
+<key q>
+<restore>
+
+<hotkey z>
+<sendpc local>
+<sendwin aoc1>
+<key z>
+<sendpc local>
+<sendwin aoc2>
+<key z>
+<sendpc local>
+<sendwin aoc3>
+<key z>
+<sendpc local>
+<sendwin aoc4>
+<key z>
+<sendpc local>
+<sendwin aoc5>
+<key z>
+<sendpc local>
+<sendwin aoc6>
+<key z>
+<restore>
+
+<hotkey space>
+<sendpc local>
+<sendwin aoc1>
+<key space>
+<sendpc local>
+<sendwin aoc2>
+<key space>
+<sendpc local>
+<sendwin aoc3>
+<key space>
+<sendpc local>
+<sendwin aoc4>
+<key space>
+<sendpc local>
+<sendwin aoc5>
+<key space>
+<sendpc local>
+<sendwin aoc6>
+<key space>
+<restore>
+
+<hotkey Numpad2>
+<sendpc local>
+<Sendwin aoc2>
+<key enter>
+<text /target Nyrnuth>
+<key enter>
+<Sendwin aoc3>
+<key enter>
+<text /target Nyrnuth>
+<key enter>
+<Sendwin aoc4>
+<key enter>
+<text /target Nyrnuth>
+<key enter>
+<Sendwin aoc5>
+<key enter>
+<text /target Nyrnuth>
+<key enter>
+<Sendwin aoc6>
+<key enter>
+<text /target Nyrnuth>
+<key enter>
+<Restore>
+
+<hotkey Numpad3>
+<Sendpc local>
+<Sendwin aoc2>
+<key enter>
+<text /follow>
+<key Enter>
+<Sendwin aoc3>
+<key enter>
+<text /follow>
+<key Enter>
+<Sendwin aoc4>
+<key enter>
+<text /follow>
+<key Enter>
+<Sendwin aoc5>
+<key enter>
+<text /follow>
+<key Enter>
+<Sendwin aoc6>
+<key enter>
+<text /follow>
+<key Enter>
+<Restore>
+<hotkey Numpad9>
+<sendpc local>
+<sendwin aoc1>
+<key Numpad9>
+<sendpc local>
+<sendwin aoc2>
+<key Numpad9>
+<sendpc local>
+<sendwin aoc3>
+<key Numpad9>
+<sendpc local>
+<sendwin aoc4>
+<key Numpad9>
+<sendpc local>
+<sendwin aoc5>
+<key Numpad9>
+<sendpc local>
+<sendwin aoc6>
+<key Numpad9>
+<restore>
+
+<hotkey Numpad4>
+<Sendpc local>
+<Sendwin aoc1>
+<key enter>
+<text /invite Nyrnern>
+<key Enter>
+<key enter>
+<text /invite Nyrniuh>
+<key Enter>
+<key enter>
+<text /invite Narnieth>
+<key Enter>
+<key enter>
+<text /invite Nyrnoeth>
+<key Enter>
+<text /invite Erandorn>
+<key Enter>
+<text /invite Erannar>
+<key Enter>
+<text /invite Juskharn>
+<key Enter>
+<text /invite Forkelarn>
+<key Enter>
+<text /invite Akharn>
+<key Enter>
+<text /invite Nyrnieth>
+<key Enter>
+<Restore>
